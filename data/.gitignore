@@ -1,4 +1,1 @@
-# Data files - too large and potentially sensitive for public repos
-*.csv
-*.xlsx
-*.parquet
+# Allow all data files to be tracked in this repository

@@ -25,7 +25,6 @@ wheels/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # IDE
 .vscode/
@@ -33,12 +32,4 @@ wheels/
 *.swp
 *.swo
 
-# Data
-data/*.csv
-data/*.xlsx
-data/*.parquet
-
-# Results
-results/*.png
-results/*.pkl
-results/*.json
+# Allow all project files to be tracked in this repository
